@@ -1,0 +1,11 @@
+logs/*
+vendor/*
+app/config/env/*
+!app/config/env/sample.php
+app/config/environment.php
+.fuse_hidden*
+data/*
+app/library/swagger-spec-main.php
+tests/_output/*
+composer.lock
+composer.phar
